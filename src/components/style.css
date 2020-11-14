@@ -1,0 +1,23 @@
+.navigation-head{
+    background-color: #333;
+    height: 50px;
+}
+.logout{
+    float: right;
+    color: aliceblue;
+    text-align: center;
+   
+    text-decoration: none;
+    font-size: 20px;
+}
+.navigation-text{
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navigation-text:hover{
+color: aquamarine;
+}

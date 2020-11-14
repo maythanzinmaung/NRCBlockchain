@@ -1,0 +1,47 @@
+.formStyle {
+  align-items: center;
+  width: 400px;
+  height: 590px;
+  padding: 10px;
+  background-color: white;
+  border-style: solid;
+  position: absolute;
+  border-radius: 9px;
+  top: 23%;
+  left: 40%;
+  margin-top: -100px;
+  margin-left: -150px;
+}
+.bodyStyle {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(23, 109, 131);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.data-block {
+  padding: 10px;
+}
+.button-block {
+  padding-top: 20px;
+  padding-left: 245px;
+}
+.label-text {
+  font-weight: bold;
+}
+.input {
+  height: 20px;
+  border: 1.5px solid;
+}
+label {
+  width: 170px;
+  display: inline-block;
+  padding: 12px 10px 10px;
+  padding-bottom: 15px;
+}
+button {
+  float: right;
+  margin-right: 30px;
+}
